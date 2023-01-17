@@ -11,7 +11,7 @@ using namespace std;
 
 int main()
 {
-    /*COde Here*/
+    /*COde Here*/ 
     //my first thing that comes to mjy mind is to find minimum and maximum values of multiplication
     //of 2 3-digit numbers
     long long int min = 100*100,max = 999*999 ;

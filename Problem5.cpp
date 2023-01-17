@@ -24,12 +24,14 @@ int prime(int n)
 			flag = 0;
 			return flag;
 		}
-		return flag;
+		
 	}
+	return flag;
 }
 
 int main()
 {
+	
 	/* Code Here */
 	long int n,product;
 	product = 1; 
@@ -82,4 +84,7 @@ int main()
 		cout<<"\nSmallest multiple from 1 to "<<n<<" is "<<product;
 	}
 	return 0;
+
+	
+
 }
