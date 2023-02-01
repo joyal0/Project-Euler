@@ -4,6 +4,7 @@
         "cmath": "cpp",
         "bit": "cpp",
         "initializer_list": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "chrono": "cpp"
     }
 }
